@@ -1,3 +1,3 @@
 # Aula-git
 
-repositorio desitanado para aulas de Git e github para fins academicos.
+repositorio destinado para aulas de Git e github para fins academicos.
